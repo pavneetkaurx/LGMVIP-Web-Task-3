@@ -12,4 +12,4 @@ TASK3-
 REGISTRATION FORM
 Create a registration form whose data is being displayed on same page using HTML, CSS & JS.
 
-Website Link :-
+Website Link :-https://github.com/pavneetkaurx/LGMVIP-Web-Task-3
